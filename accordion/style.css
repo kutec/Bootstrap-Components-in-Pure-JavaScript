@@ -1,0 +1,17 @@
+.accordion-collapse {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.accordion-header button{
+  background: #eee;
+  border: 0;
+  padding: 5px 10px;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  text-align: left;
+}
